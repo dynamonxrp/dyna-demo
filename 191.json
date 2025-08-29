@@ -1,0 +1,19 @@
+{
+  "name": "@SLICK",
+  "description": "Proof to evolve",
+  "image": "https://raw.githubusercontent.com/dynamonxrp/dyna-demo/main/4.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "???"
+    },
+    {
+      "trait_type": "Element",
+      "value": "???"
+    },
+    {
+      "trait_type": "Species",
+      "value": "???"
+    }
+  ]
+}
